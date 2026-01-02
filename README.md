@@ -1,5 +1,12 @@
 # 📊 Clinic Appointment & Inventory Dashboard – Business Insights
 
+## Dashboard Overview
+<img width="1282" height="732" alt="Screenshot 2026-01-02 153145" src="https://github.com/user-attachments/assets/96dbe5e9-469d-4aeb-9a7e-b2ea9fa2dadb" />
+
+<img width="1288" height="728" alt="Screenshot 2026-01-02 153219" src="https://github.com/user-attachments/assets/4480189a-87ec-4f7e-bb4e-617dfa53b874" />
+
+
+
 ## 📌 Project Overview
 This Power BI dashboard provides end-to-end visibility into **clinic operations** using data **extracted from a SQL database**.
 
