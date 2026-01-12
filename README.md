@@ -1,7 +1,8 @@
 # 📊 Clinic Appointment & Inventory Dashboard – Business Insights
 
 ## Dashboard Overview
-![WhatsApp Image 2026-01-09 at 12 56 42 PM](https://github.com/user-attachments/assets/7571ec88-c5cd-481e-bc07-c2158babbf45)
+![IMG_20260112_170958](https://github.com/user-attachments/assets/db43c4c7-334b-46b4-bdad-5ea0757b1002)  
+![IMG_20260112_170949](https://github.com/user-attachments/assets/6aa2b9df-c1b0-466e-89be-dfb5293781a8)
 
 
 
